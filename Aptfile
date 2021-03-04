@@ -11,3 +11,4 @@ libxrender1
 libdbus-glib-1-2
 libharfbuzz0b
 libharfbuzz-icu0
+libglu1-mesa:i386

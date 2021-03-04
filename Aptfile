@@ -1,0 +1,13 @@
+libxfixes3
+libxinerama-dev
+libxinerama1
+libxdamage1
+libcairo2
+libsm6
+libice6
+libpixman-1-0
+libxcb-render0
+libxrender1
+libdbus-glib-1-2
+libharfbuzz0b
+libharfbuzz-icu0
